@@ -17,8 +17,9 @@ export default function About() {
       </p>
 
       <p>
-        Team: Frontend by salma and shahed .
+        Team: Frontend by salma motasem and shahed .
       </p>
     </div>
   );
 }
+
